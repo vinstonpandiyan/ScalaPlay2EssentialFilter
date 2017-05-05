@@ -1,0 +1,1 @@
+# ScalaPlay2EssentialFilter
